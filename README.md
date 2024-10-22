@@ -148,4 +148,4 @@ Contributions are welcome! Please refer to the contribution guides in the backen
 
 ## License
 
-This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
+This project is under the MIT license. By [Roadmvn](https://github.com/Roadmvn).
